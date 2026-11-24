@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /checkout
+
+Sitemap: https://harsh7115.github.io/9t9-caps-v2/sitemap.xml

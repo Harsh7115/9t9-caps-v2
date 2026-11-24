@@ -1,0 +1,35 @@
+1:"/9t9-caps-v2/_next/static/chunks/0frnohntl_c-2.js"
+2:"/9t9-caps-v2/_next/static/chunks/2n-wzgy_-qigf.js"
+3:"LoadingBoundaryProvider"
+4:I[18886,["$1","$2"],"$3"]
+5:"$Sreact.fragment"
+7:I[55884,["$1","$2"],"Header"]
+8:I[18886,["$1","$2"],"default"]
+9:I[58389,["$1","$2"],"default"]
+a:I[88643,["$1","$2"],""]
+b:I[55884,["$1","$2"],"Footer"]
+c:I[55884,["$1","$2"],"BagDrawer"]
+12:I[61207,["$1","$2"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[61207,["$1","$2"],"$15"]
+18:"MetadataBoundary"
+19:I[61207,["$1","$2"],"$18"]
+1b:I[67467,["$1","$2"],"default",1]
+:HL["/9t9-caps-v2/_next/static/chunks/1h1ukohuncfi3.css","style"]
+:HL["/9t9-caps-v2/_next/static/media/4a0b7dd978568ff2-s.p.3fofz6dws3mg0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/9t9-caps-v2/_next/static/media/6e7755c9813efd51-s.p.0pan85mumqyf3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/9t9-caps-v2/_next/static/media/d902bc2bfdd0a4cb-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/9t9-caps-v2/_next/static/media/e63b65bb308a9351-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+6:["$","style",null,{"children":".intro{display:none!important}"}]
+e:X
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$5","c",{"children":["$L11",null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":false,"v":null}}]]
+f:[["children",{"s":{"n":"slug","t":"d","k":"terms","s":[]},"h":66048,"d":{"r":["$","$5","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$e"},"c":"$Q10"}]]
+d:[["children",{"s":"policies","h":131584,"d":{"r":["$","$5","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$e"},"c":"$Qf"}]]
+0:{"P":null,"c":["","policies","terms",""],"q":"","i":false,"t":{"t":{"s":"","h":131604,"d":{"r":["$","$L4",null,{"loading":[["$","div","l",{"className":"loading","role":"status","aria-label":"Loading","children":["$","i",null,{}]}],[],null],"children":["$","$5","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/9t9-caps-v2/_next/static/chunks/1h1ukohuncfi3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/9t9-caps-v2/_next/static/chunks/0frnohntl_c-2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/9t9-caps-v2/_next/static/chunks/2n-wzgy_-qigf.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-AU","className":"IH3o2G_variable lKdfAa_variable _Gk85q_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(sessionStorage.getItem('9t9-intro')||matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('intro-seen')}catch(e){document.documentElement.classList.add('intro-seen')}"}}],["$","noscript",null,{"children":"$6"}]]}],["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","$L7",null,{}],["$","main",null,{"id":"main","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"fade","children":["$","$L9",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":[["$","section",null,{"className":"plain","children":[["$","h1",null,{"children":"NOT FOUND"}],["$","p",null,{"children":"That page does not exist."}],["$","$La",null,{"className":"btn","href":"/collection","children":"View the collection"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Lb",null,{}],["$","$Lc",null,{}]]}]]}]]}]}],"p":false,"v":null},"c":"$Qd"},"h":{"r":["$","$5","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":"$L1a"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1b",[["$","link","0",{"rel":"stylesheet","href":"/9t9-caps-v2/_next/static/chunks/1h1ukohuncfi3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-DOhPZGkl1VYCcK08MYqe"}
+e:C
+11:["$","section",null,{"className":"plain","children":[["$","h1",null,{"children":"TERMS"}],["$","p",null,{"className":"tbc","children":"This page is being prepared. The copy has not been supplied yet."}]]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#080808"}]]
+1c:I[3244,["$1","$2"],"IconMark"]
+14:null
+1a:[["$","title","0",{"children":"Terms | 9T9 CAPS"}],["$","meta","1",{"name":"description","content":"Premium embroidered snapback caps from Australia. The Founding Collection — 001. Five designs, 50 units each."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","meta","3",{"property":"og:title","content":"Terms | 9T9 CAPS"}],["$","meta","4",{"property":"og:description","content":"Premium embroidered snapback caps from Australia. The Founding Collection — 001. Five designs, 50 units each."}],["$","meta","5",{"property":"og:site_name","content":"9T9 CAPS"}],["$","meta","6",{"property":"og:locale","content":"en_AU"}],["$","meta","7",{"property":"og:image","content":"https://harsh7115.github.io/9t9-caps-v2/photos/pair-front.webp"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Terms | 9T9 CAPS"}],["$","meta","11",{"name":"twitter:description","content":"Premium embroidered snapback caps from Australia. The Founding Collection — 001. Five designs, 50 units each."}],["$","meta","12",{"name":"twitter:image","content":"https://harsh7115.github.io/9t9-caps-v2/photos/pair-front.webp"}],["$","link","13",{"rel":"icon","href":"/9t9-caps-v2/brand/icon.png"}],["$","$L1c","14",{}]]
