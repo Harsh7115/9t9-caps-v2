@@ -1,0 +1,42 @@
+{
+ "signature-packaged": {
+  "w": 923,
+  "h": 1331
+ },
+ "heritage-packaged": {
+  "w": 1014,
+  "h": 1400
+ },
+ "obsidian-packaged": {
+  "w": 965,
+  "h": 1400
+ },
+ "azure-packaged": {
+  "w": 927,
+  "h": 1400
+ },
+ "atelier-packaged": {
+  "w": 978,
+  "h": 1400
+ },
+ "photo-card-front": {
+  "w": 950,
+  "h": 1400
+ },
+ "photo-card-back": {
+  "w": 959,
+  "h": 1400
+ },
+ "photo-obsidian": {
+  "w": 1400,
+  "h": 922
+ },
+ "photo-azure": {
+  "w": 1400,
+  "h": 804
+ },
+ "photo-heritage": {
+  "w": 1400,
+  "h": 874
+ }
+}
